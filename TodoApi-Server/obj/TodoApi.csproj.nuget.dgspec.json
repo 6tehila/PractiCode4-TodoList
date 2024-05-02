@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Documents\\פרקטיקוד\\project4\\TodoApi-Client\\TodoApi.csproj": {}
+    "C:\\Users\\User\\Documents\\פרקטיקוד\\project4\\TodoApi-Server\\TodoApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Documents\\פרקטיקוד\\project4\\TodoApi-Client\\TodoApi.csproj": {
+    "C:\\Users\\User\\Documents\\פרקטיקוד\\project4\\TodoApi-Server\\TodoApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Documents\\פרקטיקוד\\project4\\TodoApi-Client\\TodoApi.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Documents\\פרקטיקוד\\project4\\TodoApi-Server\\TodoApi.csproj",
         "projectName": "TodoApi",
-        "projectPath": "C:\\Users\\User\\Documents\\פרקטיקוד\\project4\\TodoApi-Client\\TodoApi.csproj",
+        "projectPath": "C:\\Users\\User\\Documents\\פרקטיקוד\\project4\\TodoApi-Server\\TodoApi.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Documents\\פרקטיקוד\\project4\\TodoApi-Client\\obj\\",
+        "outputPath": "C:\\Users\\User\\Documents\\פרקטיקוד\\project4\\TodoApi-Server\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
